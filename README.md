@@ -7,7 +7,7 @@ This is a group project done in collaboration with
 - Shawn Kinyanjui [@ShawnTheCoder24](https://github.com/ShawnTheCoder24)
 
 ## My Role
-Some of my key roles in this project were as follows
+My roles in this project were as follows
 - UI/UX design
 - Front-end Development
 - Participated in the Backend development as part of the team. 
