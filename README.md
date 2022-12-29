@@ -6,4 +6,4 @@ This is a group project done in collaboration with Arnold Aijuka @ArnoldG8 and S
 
 # Application Walk through
 ## Splash Screen
-![alt text](https://github.com/[Kendi42]/[Hostel-Booking-Application]/blob/[master]/image.jpg?raw=true)
+![Splash Screen](https://github.com/[Kendi42]/[Hostel-Booking-Application]/blob/[master]/ApplicationScreenshots/splash screen.jpg?raw=true)
